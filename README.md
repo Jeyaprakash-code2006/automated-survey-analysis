@@ -43,3 +43,4 @@ The system performs data cleaning, sentiment analysis, keyword extraction, NPS c
 
 ```bash
 pip install -r requirements.txt
+python -m streamlit run app.py
