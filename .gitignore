@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+synthetic_survey_190MB.csv
